@@ -1,4 +1,4 @@
-Unknotting_Files_1 has all of the knots with u(K) = 3.
+Unknotting_Files has all of the knots with u(K) = 3.
 
 Unknotting_Files_2 has all of the knots with an updated lower bound from 2 -> 3.
 
